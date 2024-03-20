@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.edceb821.css",
-    "main.js": "/static/js/main.c047e983.js",
+    "main.css": "/static/css/main.5e3b9a8b.css",
+    "main.js": "/static/js/main.2fa266c8.js",
     "static/js/364.26b0401a.chunk.js": "/static/js/364.26b0401a.chunk.js",
     "static/media/ishan-right.jpg": "/static/media/ishan-right.13b9f1f4d01e2761be9d.jpg",
     "static/media/MangoDays-GOg8G.woff": "/static/media/MangoDays-GOg8G.1e095aa6e861aa1cd04d.woff",
     "index.html": "/index.html",
-    "main.edceb821.css.map": "/static/css/main.edceb821.css.map",
-    "main.c047e983.js.map": "/static/js/main.c047e983.js.map",
+    "main.5e3b9a8b.css.map": "/static/css/main.5e3b9a8b.css.map",
+    "main.2fa266c8.js.map": "/static/js/main.2fa266c8.js.map",
     "364.26b0401a.chunk.js.map": "/static/js/364.26b0401a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edceb821.css",
-    "static/js/main.c047e983.js"
+    "static/css/main.5e3b9a8b.css",
+    "static/js/main.2fa266c8.js"
   ]
 }
